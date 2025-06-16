@@ -41,7 +41,7 @@ The dataset used in this project was obtained through the free version of NewsAP
 - Pandas: for data manipulation
 - NLTK: for natural language processing
 - Scikit-learn: for modeling and evaluation
-- Seaborn y Matplotlib: for results visualization
+- Seaborn and Matplotlib: for results visualization
 
 ## Installation and Usage
 
